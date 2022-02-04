@@ -1,0 +1,12 @@
+body {
+background-color: bisque;
+height: 100%;
+}
+div.main_container {
+    border: 2px solid pink;
+}
+header,
+main{
+    border: 2px solid white;
+    height: 400px;
+}
