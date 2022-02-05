@@ -1,12 +1,35 @@
-body {
-background-color: bisque;
-height: 100%;
+body{
+width: 850px;
 }
-div.main_container {
-    border: 2px solid pink;
+div.header{
+position: relative;
+color: white;
+width: 850px;
 }
-header,
+img{
+width: 850px;
+}
+
+h1.nasa{
+color: white;
+position: absolute;
+text-align: center;
+margin: auto;
+left: 40%;
+top: 225px;
+font-family: helvetica, arial, sans-serif;
+font-size: 80px;
+}
 main{
-    border: 2px solid white;
-    height: 400px;
+display: flex;
+flex-direction: row;
+height: 324px;
+background-color: lightgrey;
+width: 850px;
+justify-content: space-evenly;
+line-height: 10px;
 }
+.div-3{
+line-height: 10px;
+}
+
