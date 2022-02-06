@@ -14,9 +14,8 @@ h1.nasa{
 color: white;
 position: absolute;
 text-align: center;
-margin: auto;
-left: 40%;
-top: 225px;
+left: 300px;
+top: 160px;
 font-family: helvetica, arial, sans-serif;
 font-size: 80px;
 }
@@ -32,4 +31,15 @@ line-height: 10px;
 .div-3{
 line-height: 10px;
 }
+h3{
+font-family: dm sans medium 500;
+}
+button{
+border: none;
+color: black;
+text-align: center;
+color: white;
+background-color: black;
+}
+
 
